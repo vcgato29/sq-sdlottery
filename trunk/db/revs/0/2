@@ -1,0 +1,40 @@
+id: 1-2.0.r2/0
+type: dir
+count: 0
+cpath: /SDLottery/docs
+copyroot: 0 /
+
+PLAIN
+K 4
+docs
+V 14
+dir 1-2.0.r2/0
+END
+ENDREP
+id: 0-1.0.r2/118
+type: dir
+pred: 0-1.0.r1/0
+count: 1
+text: 2 72 33 33 ab7f8842cf42e965fe9de2e0ec125887
+cpath: /SDLottery
+copyroot: 0 /
+
+PLAIN
+K 9
+SDLottery
+V 16
+dir 0-1.0.r2/118
+END
+ENDREP
+id: 0.0.r2/307
+type: dir
+pred: 0.0.r1/118
+count: 2
+text: 2 254 40 40 203c7539dba6f92755d7238b80b6a68f
+cpath: /
+copyroot: 0 /
+
+_1.0.t1-1 add-dir false false /SDLottery/docs
+
+
+307 433

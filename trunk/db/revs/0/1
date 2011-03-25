@@ -1,0 +1,25 @@
+id: 0-1.0.r1/0
+type: dir
+count: 0
+cpath: /SDLottery
+copyroot: 0 /
+
+PLAIN
+K 9
+SDLottery
+V 14
+dir 0-1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/118
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 67 38 38 2efa9247569e3c8a96fd2b22588f2dbe
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-0 add-dir false false /SDLottery
+
+
+118 242
